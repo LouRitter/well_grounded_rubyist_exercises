@@ -21,3 +21,4 @@ end
 banner = Banner.new("howdy")
 p +banner
 p -banner
+
